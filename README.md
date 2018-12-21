@@ -20,9 +20,9 @@ express-winston : <https://github.com/namshi/winston-graylog2#readme>
 	$ npm start
 	=> Check logs in Graylog server
 	
-Express instantiation visible on **app.js**
-Logger declaration on **utils/logs.js**
-Logger usage on **routes/index.js**
+Express instantiation visible on **app.js**  
+Logger declaration on **utils/logs.js**  
+Logger usage on **routes/index.js**  
 	
 ## Configure your Graylog server : 
 
